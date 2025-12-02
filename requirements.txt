@@ -1,8 +1,6 @@
-SpeechRecognition 
-PyAudio
-google-generativeai
-python-dotenv
-flask
-flask_cors
-pymongo
+Flask
+Flask-CORS
 gunicorn
+python-dotenv
+google-generativeai
+pymongo
