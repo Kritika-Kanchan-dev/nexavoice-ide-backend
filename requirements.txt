@@ -1,0 +1,7 @@
+SpeechRecognition 
+PyAudio
+google-generativeai
+python-dotenv
+flask
+flask_cors
+pymongo
